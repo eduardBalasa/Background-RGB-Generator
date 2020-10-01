@@ -1,2 +1,2 @@
 # Background-RGB-Generator
-HTML5 &amp; CSS3 Background rgb generator
+HTML5, CSS3 & Javascript Background rgb generator
